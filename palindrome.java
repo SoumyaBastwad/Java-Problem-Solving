@@ -1,6 +1,6 @@
 package startproject;
 import java.util.Scanner;
-public class revercesrting {
+public class Palindrome {
 
 	public static void main(String[] args) {
 		
