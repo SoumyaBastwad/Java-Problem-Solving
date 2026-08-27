@@ -6,7 +6,7 @@ public class revercesrting {
          Scanner sc =new Scanner(System.in);
          System.out.print("Enter the string:");
          String str =sc.nextLine();
-         String reverse =" ";
+         String reverse ="";
          for(int i=str.length()-1;i>=0;i--) {
         	 reverse = reverse  + str.charAt(i);
          }
