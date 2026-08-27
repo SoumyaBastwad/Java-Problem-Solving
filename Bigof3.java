@@ -1,6 +1,6 @@
 package startproject;
 
-public class bigof3 {
+public class Bigof3 {
 	public static void main(String[] args) {
 		int a=45,b=67,c=76;
 		if(a>b && a>c) {
