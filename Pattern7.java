@@ -7,15 +7,4 @@ public static void main(String[] args) {
 	{
 	  for(int j=1;j<=5;j++) 
 	  {
-		if(count < 10) 
-		{
-		  System.out.print("0");				
-		}
-		System.out.print(count + " ");
-		count++;
-	  }
-	  System.out.println();
-   }
-    
-    }
-}
+		
