@@ -14,6 +14,7 @@ public class Triangle {
         float perimeter=side+base+side;
         System.out.println("area of triangle :" +area);
         System.out.println("perimeter of triangle :" +perimeter);
+	
 	}
 
 }
