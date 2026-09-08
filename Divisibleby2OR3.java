@@ -1,7 +1,5 @@
 package Demo;
-
 import java.util.Scanner;
-
 public class Divisibleby2OR3 {
 
 	public static void main(String[] args) {
