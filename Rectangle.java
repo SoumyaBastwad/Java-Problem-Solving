@@ -8,13 +8,11 @@ public class Rectangle {
 	 int length=sc.nextInt();
 	 System.out.println("Enter the width: ");
 	 int width=sc.nextInt();
-	 
 	 int area=length+width;
 	 int perimeter=2*(length+width);
 	 System.out.println("area of rectangle " + area);
 	 System.out.println("perimeter of rectangle " + perimeter);
-
-	}
+   }
 
 }
 
