@@ -10,8 +10,7 @@ public class Check2digitnumber {
 	        else {
 	        	System.out.print("no");
 	        }
-
-	}
+    }
 
 }
 
