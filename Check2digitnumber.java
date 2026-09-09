@@ -1,5 +1,4 @@
 package Demo;
-
 import java.util.Scanner;
 
 public class Check2digitnumber {
