@@ -1,5 +1,4 @@
 package Demo;
-
 import java.util.Scanner;
 public class MultiplicationOf3 {
       public static void main(String[] args) {
