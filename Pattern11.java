@@ -1,5 +1,4 @@
 package Demo;
-
 public class Pattern11 {
 	public static void main(String[] args) {
 		for(int i=1;i<=5;i++) 
@@ -10,9 +9,5 @@ public class Pattern11 {
 		  }
 		  System.out.println();
 	   }
-	    
-
 	}
-
-
 }
