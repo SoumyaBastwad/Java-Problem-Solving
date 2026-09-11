@@ -10,8 +10,6 @@ public class Endingwith7 {
 	        else {
 	        	System.out.print("no");
 	        }
-
 	}
-
 }
 
