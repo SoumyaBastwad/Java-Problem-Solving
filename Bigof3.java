@@ -9,5 +9,5 @@ public class Bigof3 {
 		}else {
 			System.out.print("c is bigger");
 		}
-		}
 	}
+}
