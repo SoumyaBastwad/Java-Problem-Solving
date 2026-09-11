@@ -12,6 +12,5 @@ public class Divisibleby2and3and7 {
 			System.out.print("no");
 		}
    }
-
 }
 
