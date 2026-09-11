@@ -12,6 +12,5 @@ public class DivisibleBy5 {
 			System.out.print(" Not Divisible by 5");
 		}
     }
-
 }
 
