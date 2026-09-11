@@ -10,8 +10,7 @@ public class Endingwith53 {
 	        else {
 	        	System.out.print("no");
 	        }
-
-	}
+     }
 
 }
 
