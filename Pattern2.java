@@ -1,4 +1,5 @@
 package Demo;
+import java,util.Scanner;
 public class Pattern2 {
     public static void main(String[] args) {
 	    int i, j;
