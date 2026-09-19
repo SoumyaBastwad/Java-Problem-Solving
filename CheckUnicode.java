@@ -11,11 +11,4 @@ public class CheckUnicode {
 			System.out.print("LowerCase");
 		}else if(n>=48 && n<=57) {
 			System.out.print("Numeric");
-		}else {
-			System.out.print("None of the above");
-		}
-
-	}
-
-}
-
+	
