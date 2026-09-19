@@ -7,11 +7,4 @@ public class Absulutevalue {
 		
 		if(n>=0) {
 			System.out.print(n);
-			
-		}
-		else {
-			System.out.print(-n);
-		}
-	}
-}
-
+	
