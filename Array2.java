@@ -19,8 +19,6 @@ public class Array2 {
 			}
 			System.out.println();
 		}
-
-
-	}
+   }
 }
 
