@@ -8,14 +8,11 @@ public class Array1 {
 		for(int i=0;i<5;i++) {
 			System.out.println("Enter the studen age:"+ (i+1) );
 			age[i]=sc.nextInt();
-			
-		}
+			}
 		System.out.println("Enter the studen ages are:" );
 		for(int i=0;i<5;i++) {
 			System.out.print(age[i] + " ");
-			
-		}
+			}
 	}
-
 }
 
