@@ -7,11 +7,9 @@ public class Forloop2 {
 		int n =sc.nextInt();
 		for(int i=n;i>=1;i--) {
 		System.out.println(i);
-				}
-
-			}
-
 		}
+	}
+}
 
 	
 
