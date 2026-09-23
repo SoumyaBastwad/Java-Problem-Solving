@@ -12,7 +12,7 @@ public class Array1 {
 		System.out.println("Enter the studen ages are:" );
 		for(int i=0;i<5;i++) {
 			System.out.print(age[i] + " ");
-			}
+		}
 	}
 }
 
