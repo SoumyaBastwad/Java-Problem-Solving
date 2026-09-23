@@ -11,6 +11,5 @@ public class Check2digitnumber {
 	        	System.out.print("no");
 	        }
       }
-
 }
 
