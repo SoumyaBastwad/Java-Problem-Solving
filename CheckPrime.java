@@ -16,8 +16,6 @@ public class CheckPrime {
         else {
         	System.out.print("not prime");
         }
-	
 	}
-
 }
 
