@@ -12,6 +12,5 @@ public class MultiplicationOf3 {
 			System.out.print("not Multiplication of 3");
 		}
     }
-
 }
 
