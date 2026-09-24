@@ -29,7 +29,5 @@ public class Printprime2 {
 	        Printprime(n);
 		}
 
-	
-
 }
 
