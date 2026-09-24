@@ -1,7 +1,11 @@
 package startproject;
+import java.util.Scanner;
 public class Bigof3 {
 	public static void main(String[] args) {
-		int a=45,b=67,c=76;
+		Scanner sc =new Scanner(System.in);
+		int a=sc.nextInt();
+		int b=sc.nextInt();
+		int c=sc.nextInt();
 		if(a>b && a>c) {
 			System.out.print("a is bigger");
 		}else if (b>a && b>c) {
