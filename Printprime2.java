@@ -3,9 +3,7 @@ package Demo;
 import java.util.Scanner;
 
 public class Printprime2 {
-
-	
-		public static void Printprime(int n){
+        public static void Printprime(int n){
 			int count=0;
 			for ( int i=2;count<n;i++) {
 				if (Checkprime(i)) {
