@@ -16,10 +16,7 @@ public class Checkprime2 {
 		        else {
 		        	System.out.print("not prime");
 		        }
-			
-			
-
-	}
+			}
 
 }
 
