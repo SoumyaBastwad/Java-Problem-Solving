@@ -16,9 +16,7 @@ public class MULLaandbTilln {
 
 }
 
-package Demo;
-import java.util.Scanner;
-public class MULLaandbTilln {
+
 
     
 
