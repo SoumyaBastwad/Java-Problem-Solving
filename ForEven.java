@@ -1,9 +1,5 @@
 package Demo;
 import java.util.Scanner;
-public class ForEven 
-
-package Demo;
-import java.util.Scanner;
 public class ForEven {
 
 	public static void main(String[] args) {
