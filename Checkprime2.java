@@ -5,9 +5,4 @@ public class Checkprime2 {
 				Scanner sc = new Scanner(System.in);
 		        int n=sc.nextInt();
 		        int count=0;
-		        for (int i=2;i<=n/2;i++) {
-		        	if(n%i==0) {
-		        		count++;
-		        	}
-		        }
-
+		    
