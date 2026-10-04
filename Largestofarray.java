@@ -5,9 +5,9 @@ import java.util.Scanner;
 public class Largestofarray {
 
 		public static int largeOfArray(int[] ar) {
-			  int max=0;
+			  int max=ar[0];
 			    for(int i=0;i<ar.length;i++ ) {
-			    	if(max<ar[i]) {
+			    	if(ar[i]>max) {
 			    	 max=ar[i];
 			    	}
 			     }
