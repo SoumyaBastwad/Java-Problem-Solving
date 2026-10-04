@@ -1,0 +1,23 @@
+package Demo;
+import java.util.Scanner;
+public class Sumofarray {
+   public static void main(String[] args) {
+		Scanner sc =new Scanner(System.in);
+		System.out.println("Enter the size of array:");
+		int n=sc.nextInt();
+	    int[] ar=new int[n];
+	    System.out.println("Enter the elements of array:");
+	    for(int i=0;i<ar.length;i++) {
+	    	   ar[i]=sc.nextInt();
+	     }
+	    System.out.println("the sum of array:");
+	    int sum=0;
+	    for(int i=0;i<ar.length;i++ ) {
+	    	sum=sum+ar[i];
+	    	  
+	    	
+	     }
+	    System.out.print(sum);
+	}
+
+}
