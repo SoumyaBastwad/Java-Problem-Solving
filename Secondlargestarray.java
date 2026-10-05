@@ -11,7 +11,7 @@ public class Secondlargestarray {
 				large=max;
 				max=ar[i];
 			}
-			else if(ar[i]>large) {
+			else if(ar[i]>large  && ar[i]!=max ) {
 				large=ar[i];
 			}
 			
