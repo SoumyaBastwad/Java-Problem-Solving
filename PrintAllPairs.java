@@ -1,1 +1,24 @@
+package Demo;
+import java.util.Scanner;
+public class Printallpairs {
+      public static void printAllPairs(int[] ar) {
+    	  for(int i=0;i<ar.length;i++) {
+    		  for(int j=i+1;j<ar.length;j++) {
+    			  System.out.println(ar[i]+" "+ar[j]);
+    		  }
+    		 
+    		  }
+    	  
+      }
+	public static void main(String[] args) {
+       Scanner sc=new Scanner(System.in);
+       int n=sc.nextInt();
+       int[] ar=new int[n];
+       for(int i=0;i<ar.length;i++) {
+    	   ar[i]=sc.nextInt();
+       }
+       printAllPairs(ar);
+	}
+
+}
 
