@@ -6,12 +6,3 @@ public class Bigof3 {
 		int a=sc.nextInt();
 		int b=sc.nextInt();
 		int c=sc.nextInt();
-		if(a>b && a>c) {
-			System.out.print("a is bigger");
-		}else if (b>a && b>c) {
-			System.out.print("b is bigger");
-		}else {
-			System.out.print("c is bigger");
-		}
-	}
-}
