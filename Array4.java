@@ -12,9 +12,4 @@ public class Array4 {
 	    	   ar[i]=sc.nextInt();
 	     }
 	    System.out.println("The array elements are:");
-	    for(int i=0;i<ar.length;i++) {
-	    	  System.out.print(ar[i]+ " ");
-	     }
-	}
-
-}
+	    
