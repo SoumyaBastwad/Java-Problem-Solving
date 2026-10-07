@@ -13,9 +13,3 @@ public class Checkprime2 {
 		        if(count==0) {
 		        System.out.print("prime");
 		        }
-		        else {
-		        	System.out.print("not prime");
-		        }
-			}
-
-}
