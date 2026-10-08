@@ -14,12 +14,3 @@ public class Oddarray {
 	    	   ar[i]=sc.nextInt();
 	     }
 	    System.out.println("The array elements are:");
-	    for(int i=0;i<ar.length;i++) {
-	    	if(i%2!=0) {
-	    	  System.out.print(ar[i]+ " ");
-	    	}
-	     }
-	}
-
-}
-
