@@ -10,14 +10,3 @@ public class Sumofarray {
 	    for(int i=0;i<ar.length;i++) {
 	    	   ar[i]=sc.nextInt();
 	     }
-	    System.out.println("the sum of array:");
-	    int sum=0;
-	    for(int i=0;i<ar.length;i++ ) {
-	    	sum=sum+ar[i];
-	    	  
-	    	
-	     }
-	    System.out.print(sum);
-	}
-
-}
