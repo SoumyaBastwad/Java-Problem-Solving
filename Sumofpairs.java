@@ -6,13 +6,3 @@ public class Sumofpairs {
            int a=sc.nextInt();
            int b=sc.nextInt();
            int c=sc.nextInt();
-           int sum1=a+b;
-           int sum2=a+c;
-           int sum3=b+c;
-           System.out.println(sum1);
-           System.out.println(sum2);
-           System.out.println(sum3);
-	}
-
-}
-
