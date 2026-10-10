@@ -10,12 +10,4 @@ public class Checkprime2 {
 		        		count++;
 		        	}
 		        }
-		        if(count==0) {
-		        System.out.print("prime");
-		        }
-		        else {
-		        	System.out.print("not prime");
-		        }
-			}
 
-}
