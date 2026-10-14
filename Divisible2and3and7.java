@@ -9,8 +9,3 @@ public class Divisibleby2and3and7 {
 			System.out.print("yes");
 			}
 		else {
-			System.out.print("no");
-		}
-	 }
-}
-
