@@ -7,9 +7,4 @@ public class Check2digitnumber {
 	        if(9 <n && n>100) {
 	        	System.out.print("yes");
 	        }
-	        else {
-	        	System.out.print("no");
-	        }
-      }
-}
-
+	        
