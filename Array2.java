@@ -10,13 +10,5 @@ public class Array2 {
 			age[i][j]=sc.nextInt();
 			}
 		}
-		System.out.println("The ages are:");
-		for(int i=0;i<2;i++) {
-			for(int j=0;j<5;j++) {
-				System.out.print(age[i][j]+ " ");
-			}
-			System.out.println();
-		}
-   }
-}
+		
 
