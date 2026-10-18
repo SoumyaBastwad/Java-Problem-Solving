@@ -12,11 +12,4 @@ public class AddDigits {
         	  return sum;
           }
 	public static void main(String[] args) {
-		Scanner sc =new Scanner(System.in);
-		int n =sc.nextInt();
-		int res =addDigit(n);
-		System.out.print(res);
-
-	}
-
-}
+		
