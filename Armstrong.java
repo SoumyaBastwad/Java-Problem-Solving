@@ -6,12 +6,4 @@ public class Armstrong {
 		while(n>0) {
 			n=n/10;
 			count++;
-		}
-		return count;
 		
-	}
-    public static boolean isArmstrong(int n) {
-    	int original =n;
-    	int rem =0;
-    	int count =Countdigit(n);
-    
